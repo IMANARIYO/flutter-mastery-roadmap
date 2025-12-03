@@ -1,0 +1,59 @@
+Problem Statement
+
+Create a StatefulWidget app called TodoCounterApp with the following features:
+
+The counter starts at a value passed from the parent (use widget.initialValue). Default = 5.
+
+A button increments the counter.
+
+A button decrements the counter (cannot go below 0).
+
+A button resets the counter back to the initial value.
+
+Display different messages based on the counter value:
+
+0 → "Nothing left!"
+
+1–4 → "Keep going…"
+
+5+ → "You’re doing great!"
+
+Bonus: Make the counter text change color dynamically:
+
+Red if 0
+
+Orange if 1–4
+
+Green if 5+
+
+UI & Styling Requirements
+
+Wrap the counter and message inside a Container with:
+
+Padding: 20
+
+Margin: 20
+
+Minimum width: 200, Maximum width: 350
+
+Rounded corners (borderRadius)
+
+Border: color + thickness
+
+Shadow: slight depth for visual emphasis
+
+Layout the buttons in a Row below the counter/message with spacing.
+
+Use setState() for all state changes.
+
+Ensure UI updates dynamically as buttons are pressed.
+
+Additional Practice Points
+
+Use initState() to initialize the counter from widget.initialValue.
+
+Use conditional logic to determine message text and counter color.
+
+Use BoxConstraints for the container to enforce min/max width.
+
+Make the UI visually appealing (bonus if you use custom button colors or rounded buttons).
