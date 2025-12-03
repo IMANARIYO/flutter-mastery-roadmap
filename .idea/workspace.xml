@@ -5,9 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48eebdd8-d39a-4cac-b1c0-4273317206eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/backword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/loop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pic-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pic-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pic-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pic-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pic-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pic-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pic-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pic-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pic-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/pic-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/repeat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/constants/app_colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_mastery_roadmap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_mastery_roadmap.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +47,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,12 +85,21 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "ebook-app-ui",
     "io.flutter.reload.alreadyRun": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/flutter_dart/flutter/flutter_mastery_roadmap",
+    "last_directory_selection": "C:/Users/user/Desktop/flutter_dart/flutter/flutter_mastery_roadmap/lib",
+    "last_opened_file_path": "C:/Users/user/Desktop/flutter_dart/flutter/flutter_mastery_roadmap/assets",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\flutter_dart\flutter\flutter_mastery_roadmap\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\flutter_dart\flutter\flutter_mastery_roadmap" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="48eebdd8-d39a-4cac-b1c0-4273317206eb" name="Changes" comment="" />
