@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_mastery_roadmap/screens/todo_counter_app.dart';
+import 'package:flutter_mastery_roadmap/screens/mood_activity_app.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const TodoCounterApp(40),
+      home: const MoodActivityApp(),
     );
   }
 }
