@@ -35,7 +35,7 @@ This repository is my **complete Flutter mastery journey**. Having mastered Dart
 
 | Status | Topic | Deep Concepts to Master | Mini Project | `Branch Name` | Time |
 |--------|-------|-------------------------|--------------|-------------|------|
-| 🚧 | **StatefulWidget Deep Dive** | initState, dispose, didUpdateWidget, didChangeDependencies, setState optimization | Advanced Counter with Lifecycle Logging | `feature/stateful-vs-stateless` | 3 days |
+| ✅ | **StatefulWidget Deep Dive** | initState, dispose, didUpdateWidget, didChangeDependencies, setState optimization | Advanced Counter with Lifecycle Logging | `feature/stateful-vs-stateless` | 3 days |
 | 🚧 | **Widget Tree Mastery** | BuildContext, InheritedWidget, Keys (GlobalKey, ValueKey, ObjectKey) | Dynamic Widget Tree App | `feature/widget-tree-mastery` | 3 days |
 | 🚧 | **Layout Widgets Complete** | Row, Column, Stack, Flex, Expanded, Flexible, Positioned, Align, Center | Complex Layout Challenges | `feature/layout-widgets-complete` | 3 days |
 | 🎯 | **MASTERY TEST 1** | Build complex UI with proper keys and lifecycle | Interactive Dashboard | `feature/mastery-test-1` | 2 days |
