@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_mastery_roadmap/screens/flutter_forms.dart';
 import 'package:flutter_mastery_roadmap/screens/parent_counter_creen.dart';
-
 import 'package:flutter_mastery_roadmap/screens/mood_activity_app.dart';
 // import 'package:flutter_mastery_roadmap/screens/home_page.dart';
 
@@ -41,13 +41,14 @@ class LearningDashboard extends StatelessWidget {
                     status: '✅ Completed',
                     screen: MoodActivityApp(),
                   ),
-                  // _buildProjectCard(
-                  //   context,
-                  //   title: 'Basic Widgets Demo',
-                  //   description: 'Text, Container, Row, Column',
-                  //   status: '✅ Completed',
-                  //   screen: MyHomePage(),
-                  // ),
+                  _buildProjectCard(
+                    context,
+                    title: 'Flutter Forms & Input Fields',
+                    description:
+                        'Empty & Pre-filled Forms with Tabs - All Input Types',
+                    status: '✅ Completed',
+                    screen: const FlutterForms(),
+                  ),
                   _buildProjectCard(
                     context,
                     title: 'Layouts & Positioning',
