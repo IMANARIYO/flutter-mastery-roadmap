@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_mastery_roadmap/screens/flutter_forms.dart';
 import 'package:flutter_mastery_roadmap/screens/parent_counter_creen.dart';
 import 'package:flutter_mastery_roadmap/screens/mood_activity_app.dart';
+import 'package:flutter_mastery_roadmap/screens/provider_demo.dart';
 // import 'package:flutter_mastery_roadmap/screens/home_page.dart';
 
 class LearningDashboard extends StatelessWidget {
@@ -48,6 +49,14 @@ class LearningDashboard extends StatelessWidget {
                         'Empty & Pre-filled Forms with Tabs - All Input Types',
                     status: '✅ Completed',
                     screen: const FlutterForms(),
+                  ),
+                  _buildProjectCard(
+                    context,
+                    title: 'Provider & ChangeNotifier Demo',
+                    description:
+                        'State Management with Provider - watch, Consumer, Selector',
+                    status: '✅ Completed',
+                    screen: const ProviderDemo(),
                   ),
                   _buildProjectCard(
                     context,

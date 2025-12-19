@@ -210,10 +210,6 @@ class _FlutterFormState extends State<FlutterForm> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Complete Flutter Form'),
-        backgroundColor: Colors.blue.shade100,
-      ),
       body: Padding(
         padding: const EdgeInsets.all(16),
         child: SingleChildScrollView(
